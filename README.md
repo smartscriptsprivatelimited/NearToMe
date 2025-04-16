@@ -8,7 +8,7 @@
 
 **Technology Stack:** PHP, MySQL, WordPress, Elementor, Astra Theme, WooCommerce, Google ReCAPTCHA
 
-![[neartome.png]]
+![neartome homepage](neartome.png)
 
 **Overview**
 NearToMe is our internal project where we want to bring local services together with end-users in an intelligent, simple manner. We had a vision for a website that would not only present our services but also facilitate smooth transactions through a hassle-free online shopping storefront.
