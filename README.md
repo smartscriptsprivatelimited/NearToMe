@@ -1,6 +1,6 @@
 # NearToMe
 
-**Case Study:** **NearToMe** – A Smooth Business Website with eCommerce Integration
+## A Smooth Business Website with eCommerce Integration
 
 **Client:** Internal project – NearToMe
 
