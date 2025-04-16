@@ -46,7 +46,11 @@ Create a quick, responsive, and accessible business website for NearToMe that:
 - SEO Optimizations such as schema, meta tags, and fast-loading images
 
 **Results**
-	✅ Business website with online payments fully functional
-	✅ 100% mobile-responsive and optimized for all screen sizes
-	✅ Admins can now easily manage content and products
-	✅ Load times are faster thanks to performance tuning
+
+✅ Business website with online payments fully functional
+
+✅ 100% mobile-responsive and optimized for all screen sizes
+
+✅ Admins can now easily manage content and products
+
+✅ Load times are faster thanks to performance tuning
