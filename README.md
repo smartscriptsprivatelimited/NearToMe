@@ -1,8 +1,11 @@
 # NearToMe
 
 **Case Study:** **NearToMe** – A Smooth Business Website with eCommerce Integration
+
 **Client:** Internal project – NearToMe
+
 **Website:** [NearToMe](https://neartome.net)
+
 **Technology Stack:** PHP, MySQL, WordPress, Elementor, Astra Theme, WooCommerce, Google ReCAPTCHA
 
 **Overview**
